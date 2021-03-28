@@ -1,0 +1,5 @@
+Bairro 1: Vila Recreio
+Bairro 2: Vila João
+Bairro 3: Jardim Paulista
+Bairro 4: Bombonato
+Bairro 5: CDHU
